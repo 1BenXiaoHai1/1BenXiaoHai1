@@ -1,9 +1,7 @@
-## 👋Hey there，I'm 1BenXiaoHai1!
-
 <!--
 **1BenXiaoHai1/1BenXiaoHai1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-### Info
+## Info
 - 🤖 **About me**:Just an ordinary person
 - 🏫 **Edu**
   - 2020.09-2021.12:Northwest University, Chemical Engineering and Technology, Undergraduate Student
@@ -14,14 +12,14 @@
 - 📱 **Social Media**
   - **Personal Blog**：https://1benxiaohai1.github.io/
   - **Zhihu**：https://www.zhihu.com/people/yi-ge-you-qu-de-ling-hun-43
-### Overview
+## Overview
 ![Taot's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taot-chen)
-### Projects
-#### OpenGL
+## Projects
+### OpenGL
 Please wait a little while before it’s open-sourced.
-#### Computer Graphics
+### Computer Graphics
 Please wait a little while before it’s open-sourced.
-#### Operating System
+### Operating System
 Please wait a little while before it’s open-sourced.
-#### GPU
+### GPU
 Please wait a little while before it’s open-sourced.

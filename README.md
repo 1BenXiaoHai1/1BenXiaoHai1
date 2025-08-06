@@ -12,8 +12,10 @@
 - 📱 **Social Media**
   - **Personal Blog**:https://1benxiaohai1.github.io/
   - **Zhihu**:https://www.zhihu.com/people/yi-ge-you-qu-de-ling-hun-43
+<!--
 # Overview
 ![Taot's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taot-chen)
+-->
 # Projects
 ## OpenGL
 Please wait a little while before it’s open-sourced.

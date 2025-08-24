@@ -17,6 +17,11 @@
 ![Taot's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taot-chen)
 -->
 # Projects
+## Basic Skills
+Git：[Git-Learning](https://github.com/1BenXiaoHai1/Git-Learning) 
+CMake：[CMake-Learning](https://github.com/1BenXiaoHai1/CMake-Learning) 
+Linux：[Linux-Learning](https://github.com/1BenXiaoHai1/Linux-Learning) 
+Docker：[Docker-Learning](https://github.com/1BenXiaoHai1/Docker-Learning) 
 ## OpenGL
 Please wait a little while before it’s open-sourced.
 ## Computer Graphics

@@ -7,7 +7,7 @@
   - **2020.09-2021.12**:NWU, Chemical Engineering and Technology, Undergraduate Student
   - **2021.12-2024.06**:NWU, Computer Science and Technology, Undergraduate Student (Transferred Major)
   - **2024.09-XXX**:NWU, Computer Science and Technology, Master’s Student
-- 🔍 **Interest**:Computer Graphics,AI,GPU,Operating System,
+- 🔍 **Interest**:Computer Graphics,AI,3D Vision,GPU,Operating System,
 - 🏀 **Hobby**:Exercising,Computer science,Movies
 - 📱 **Social Media**
   - **Personal Blog**:https://1benxiaohai1.github.io/

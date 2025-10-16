@@ -9,9 +9,7 @@
   - **2024.09-XXX**:NWU, Computer Science and Technology, Master’s Student
 - 🔍 **Interest**:Computer Graphics,AI,3D Vision,GPU,Operating System,
 - 🏀 **Hobby**:Exercising,Computer science,Movies
-- 📱 **Social Media**
-  - **Personal Blog**:https://1benxiaohai1.github.io/
-  - **Zhihu**:https://www.zhihu.com/people/yi-ge-you-qu-de-ling-hun-43
+- 📱 **Personal Blog**:https://1benxiaohai1.github.io/
 <!--
 # Overview
 ![Taot's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taot-chen)
